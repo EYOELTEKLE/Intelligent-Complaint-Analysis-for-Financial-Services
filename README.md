@@ -1,13 +1,30 @@
-# Your Project Name
+## 📦 Overview
 
-Add your project description here.
+- Object-Oriented Programming (OOP)
+- Modular architecture
+- Clean code organization
+- Easy testing and deployment
 
-## Installation
+---
 
-```bash
-pip install -r requirements.txt
-```
+## 🛠 Features
 
-## Usage
+✅ Preconfigured project directory with:
 
-Add usage instructions here.
+- `src/`-based modular layout
+- `tests/` with unit & integration folders
+- CI/CD workflow with GitHub Actions
+- VSCode Python settings
+- `.env` support & Makefile
+- `pyproject.toml` for modern packaging
+- Structured folders for `docs`, `scripts`, `data`, `notebooks`, and more
+
+---
+
+## 📋 Usage
+
+- python -m venv venv
+- source venv/bin/activate # On Windows: venv\Scripts\activate
+- pip install -r requirements.txt
+
+---
