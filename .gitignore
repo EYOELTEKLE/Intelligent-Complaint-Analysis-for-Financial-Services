@@ -164,3 +164,6 @@ logs/
 # Temporary files
 *.tmp
 *.temp
+
+# vector store
+vector_store
