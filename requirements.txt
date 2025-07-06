@@ -75,3 +75,4 @@ tzdata==2025.2
 urllib3==2.5.0
 wcwidth==0.2.13
 -e git+https://github.com/EYOELTEKLE/Intelligent-Complaint-Analysis-for-Financial-Services.git@cb7e513db6315b3c9d7ee3788972118df8024a4c#egg=your_project_name
+streamlit
